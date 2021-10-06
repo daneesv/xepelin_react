@@ -1,0 +1,27 @@
+{
+    "testimonials": [{
+            "id": 1,
+            "name": "Andrés Rosales",
+            "role": "Gerente general de Sacer Spa",
+            "title": "La mejor experiencia",
+            "stars": 4,
+            "content": "<p>“En un principio habíamos pensado en acudir a algún banco, pero el problema es que necesitábamos una serie de documentos y trámites, pero no nos daba el tiempo, por eso también estamos muy agradecidos con Xepelin, porque confiaron en nosotros. Gracias a esta alternativa de financiamiento comenzamos a tener mas flujo, lo que nos permitió pagar sueldos, cotizaciones e impuestos al día, además de comprar materiales.”</p><p>Con tan solo 7 meses de funcionamiento a toda máquina, la empresa de soluciones de acero SACER ha sabido cómo lidiar con las dificultades que conlleva el emprender con un negocio de manera autónoma.</p>"
+        },
+        {
+            "id": 2,
+            "name": "Carlos Zapata",
+            "role": "Gerente general de Zapata Ltda.",
+            "title": "La tranquilidad de contar con liquidez",
+            "stars": 5,
+            "content": "<p>“Nunca habíamos trabajado con alternativas de financiamiento, y al principio operamos con Xepelin porque nuestros clientes, debido a la contingencia, comenzaron a atrasarse en los pagos. Iba a ser algo de una sola vez, pero quedamos muy contentos con el servicio que nos prestaron, las operaciones fueron rápidas, las instrucciones super claras, y nos ayudaron bastante. Ahora cada factura que nos llega la enviamos a Xepelin.”</p><p>La liquidez es considerada uno de los elementos más importantes para que una empresa pueda mantener sus operaciones de manera estable.</p>"
+        },
+        {
+            "id": 3,
+            "name": "Leonardo Moncada",
+            "role": "Ing. y Montajes Cerro Bramador Spa",
+            "title": "La virtud de ser persistentes",
+            "stars": 3,
+            "content": "<p>“Antes de conocer Xepelin, buscábamos alternativas de financiamiento según el tiempo de respuesta, pero al conocer Xepelin los elegimos porque, además de ser rápidos, ofrecen tasas mucho más bajas, y además nos permitieron acceder a capital de trabajo, algo que solo nos habían ofrecido en un banco hace 3 o 4 años...”</p><p>Son siete años y tres intentos de emprender los que ayudaron a la empresa Atacameña, Cerro Bramador a ser lo que son hoy.</p>"
+        }
+    ]
+}

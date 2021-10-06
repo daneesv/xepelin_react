@@ -1,0 +1,27 @@
+{
+    "solutions": [{
+            "id": 1,
+            "route": "financiamiento-directo",
+            "title": "Financiamiento directo",
+            "description": "Pensado en empresas que necesiten financiar sus cuentas por cobrar o una alternativa al factoring."
+        },
+        {
+            "id": 2,
+            "route": "pronto-pago",
+            "title": "Pronto pago",
+            "description": "Similar al Financiamiento Directo pero sin retención, sin costos adicionales por mora y por el 100% de tu factura."
+        },
+        {
+            "id": 3,
+            "route": "credito-de-capital",
+            "title": "Crédito de capital",
+            "description": "Para aquellos que buscan potenciar su negocio financiando ordenes de compra o inversión en crecimiento."
+        },
+        {
+            "id": 4,
+            "route": "confirming",
+            "title": "Confirming",
+            "description": "Pensado para Grandes Empresas y Corporativos que necesiten extender el plazo de sus cuentas por pagar."
+        }
+    ]
+}
